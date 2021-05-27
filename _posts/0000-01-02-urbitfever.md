@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Urbit makes everyone a droplet in the cloud.
 Use the left arrow to go back!
